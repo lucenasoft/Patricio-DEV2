@@ -22,6 +22,7 @@
   <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
   <img align="center" alt="Lari-git" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
   <img align="center" alt="Lari-git" height="32" width="32" src="https://pngimg.com/uploads/mysql/mysql_PNG36.png"/>
+  <img align="center" alt="Lari-git" height="42" width="40" src="https://raw.githubusercontent.com/SeleniumHQ/www.seleniumhq.org/e846535b56af5f01151ec93f88785b86d3809564/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg"/>
   </div>
  
  <h3>Tools</h3>
