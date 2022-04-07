@@ -22,6 +22,7 @@
  <h3>Main technologies</h3>
   <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
   <img align="center" alt="Lari-git" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
+  <img align="center" alt="Lari-git" height="30" width="32" src="https://pngimg.com/uploads/mysql/mysql_PNG36.png"/>
   </div>
  
  <h3>Tools</h3>
