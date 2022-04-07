@@ -15,14 +15,13 @@
  <div align="center" >
   <a href="https://github.com/lucenasoft">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucenasoft&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" width='' padding='100px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenasoft&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <!-- TODO: Make technologies links takes you to repositories -->
  <h3>Main technologies</h3>
   <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
   <img align="center" alt="Lari-git" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"/>
-  <img align="center" alt="Lari-git" height="30" width="32" src="https://pngimg.com/uploads/mysql/mysql_PNG36.png"/>
+  <img align="center" alt="Lari-git" height="32" width="32" src="https://pngimg.com/uploads/mysql/mysql_PNG36.png"/>
   </div>
  
  <h3>Tools</h3>
