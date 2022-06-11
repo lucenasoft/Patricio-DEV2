@@ -1,5 +1,5 @@
-## Hello World, I'm Patrício Gabriel <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
-## Apaixonado por codar! ❤️ 
+## <center>Hello World, I'm Patrício Gabriel <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
+## <center>Apaixonado por codar! ❤️ 
 <br>
   <div  align="center"> 
   <a href="https://www.linkedin.com/in/lucenasoft/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
