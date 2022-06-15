@@ -4,7 +4,7 @@ Meu hobby é **programar** e estudar de tudo que possível.
 
 Cursando Engenharia de Software pela [AMPLI](https://www.ampli.com.br/) e  Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/). 
 
-## Contatos
+## Contatos:
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucenasoft)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:getugbr@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
@@ -12,7 +12,7 @@ Cursando Engenharia de Software pela [AMPLI](https://www.ampli.com.br/) e  Técn
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glucena77/)
   
 
-## Ferramentas
+## Ferramentas:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,10 +39,14 @@ Cursando Engenharia de Software pela [AMPLI](https://www.ampli.com.br/) e  Técn
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## Ambiente de desenvolvimento:
+## Ambiente de Desenvolvimento:
 
 ![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5500U-cc0000?style=for-the-badge&logo=amd&logoColor=white)
 ![VEGA 7](https://img.shields.io/badge/AMD-VEGA_7-cc0000?style=for-the-badge&logo=AMD&logoColor=white)
 <br/>
+
+## Minhas Atividades:
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucenasoft&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
