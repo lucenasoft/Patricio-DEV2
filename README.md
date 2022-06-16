@@ -49,4 +49,4 @@ Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e
 
 ## Minhas Atividades:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucenasoft&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucenasoft&theme=elegant&hide_border=true&background=232323)](https://git.io/streak-stats)
