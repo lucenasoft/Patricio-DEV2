@@ -2,7 +2,7 @@
 
 Meu hobby é **programar** e estudar de tudo que possível.
 
-Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/). 
+Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e formado em Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/). 
 
 ## Contatos:
 
