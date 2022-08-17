@@ -1,6 +1,8 @@
 ## <center>Hello World, I'm Patrício Gabriel <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
 Meu hobby é **programar** e estudar de tudo que possível.
+  
+  # Atualmente sou "Assistente de TI" na empresa [HRRBC](http://www.hrrbc.org.br/)
 
 Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e formado em Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/). 
 
