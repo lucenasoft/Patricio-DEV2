@@ -1,6 +1,6 @@
 ## <center>Hello World, I'm Patrício Gabriel <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
-Meu hobby é **programar** e estudar de tudo que possível.
+Meus hobby é **programar**,**fazer exercicios fisicos**, ler e estudar de tudo que possível.
   
   # Atualmente sou "Assistente de TI" na empresa [HRRBC](http://www.hrrbc.org.br/)
 
