@@ -46,7 +46,7 @@ Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e
 
 ## Ambiente de Desenvolvimento:
 
-![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5500U-cc0000?style=for-the-badge&logo=amd&logoColor=white)
 ![VEGA 7](https://img.shields.io/badge/AMD-VEGA_7-cc0000?style=for-the-badge&logo=AMD&logoColor=white)
