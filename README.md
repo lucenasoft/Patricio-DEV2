@@ -26,7 +26,6 @@ Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
-
 ## Sistema Operacionais:
 
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -46,4 +45,4 @@ Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e
 
 ## Minhas Atividades:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucenasoft&theme=elegant&hide_border=true&background=232323)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucenasoft&theme=elegant&hide_border=true&background=232323)
