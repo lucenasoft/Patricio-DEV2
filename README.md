@@ -42,8 +42,13 @@ Meus hobby é **programar**,**fazer exercicios fisicos**, ler e estudar de tudo 
 ## Ambiente de Desenvolvimento:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5_2600-cc0000?style=for-the-badge&logo=amd&logoColor=white)
+![GTX 1660 SUPER](https://img.shields.io/badge/NVIDIA-GTX1660S-76B900?style=for-the-badge&logo=AMD&logoColor=white)
+<br/>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5500U-cc0000?style=for-the-badge&logo=amd&logoColor=white)
+![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5_5500U-cc0000?style=for-the-badge&logo=amd&logoColor=white)
 ![VEGA 7](https://img.shields.io/badge/AMD-VEGA_7-cc0000?style=for-the-badge&logo=AMD&logoColor=white)
 <br/>
 
