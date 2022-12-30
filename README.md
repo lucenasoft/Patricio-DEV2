@@ -24,6 +24,7 @@ Meus hobby é **programar**,**fazer exercicios fisicos**, ler e estudar de tudo 
 ![NODEJS](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-3a7435?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/Selenium-5fb358?style=for-the-badge&logo=Selenium&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
