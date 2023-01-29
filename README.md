@@ -28,8 +28,10 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![H2](https://img.shields.io/badge/H2-061ea5?logo=h2&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-066da5?logo=docker&logoColor=fff&style=for-the-badge)
+![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
 
 ## Sistema Operacionais:
 
