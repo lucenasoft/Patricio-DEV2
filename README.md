@@ -50,7 +50,7 @@
 ![RX 6600M](https://img.shields.io/badge/AMD-RX6600M-cc0000?style=for-the-badge&logo=AMD&logoColor=white)
 <br/>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5_5500U-cc0000?style=for-the-badge&logo=amd&logoColor=white)
 ![VEGA 7](https://img.shields.io/badge/AMD-VEGA_7-cc0000?style=for-the-badge&logo=AMD&logoColor=white)
 <br/>
