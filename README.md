@@ -6,7 +6,7 @@
 
 ## Contatos:
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucenasoft)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:getugbr@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucenasoft/)
   
@@ -15,7 +15,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-FFC000?style=for-the-badge&logo=javascript&logoColor=black)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-3a7435?style=for-the-badge&logo=django&logoColor=white)
@@ -25,10 +26,8 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![H2](https://img.shields.io/badge/H2-061ea5?logo=h2&logoColor=fff&style=for-the-badge)
 ![MONGODB](https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=fff&style=for-the-badge)
-![APACHETOMCAT](https://img.shields.io/badge/ApacheTomcat-E34F26?logo=apachetomcat&logoColor=fff&style=for-the-badge)
-![MAVEN](https://img.shields.io/badge/Maven-000000?logo=apachemaven&logoColor=fff&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-%23ED8B00?style=for-the-badge&logo=amazon&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-066da5?logo=docker&logoColor=fff&style=for-the-badge)
 ![HEROKU](https://img.shields.io/badge/Heroku-3d06a5?logo=heroku&logoColor=fff&style=for-the-badge)
 ![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
