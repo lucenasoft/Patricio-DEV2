@@ -56,3 +56,7 @@
 ## Minhas Atividades:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucenasoft&theme=elegant&hide_border=true&background=232323)
+
+## Codes
+
+![GitHub States](https://github-readme-stats.vercel.app/api/top-langs/?username=lucenasoft&layout=compact&langs_count=7&theme=dark)
