@@ -2,6 +2,8 @@
 
 º Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e formado em Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/).
 
+º Atualmente, exerço a função de Engenheiro de Software na GTS Creations, onde desempenho um papel fundamental no desenvolvimento e aprimoramento de software. Além disso, ocupo a posição de Desenvolvedor Back-End na Concpts, contribuindo para a criação de soluções robustas e eficientes. Essas posições me permitiram aprofundar meu conhecimento e experiência em engenharia de software e desenvolvimento de back-end, enquanto contribuo ativamente para o sucesso dessas empresas.
+
 ## Contatos:
 
 
@@ -16,6 +18,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![ADONISJS](https://img.shields.io/badge/Adonis.Js-3d06a5?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-3a7435?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -29,7 +32,7 @@
 ![DOCKER](https://img.shields.io/badge/Docker-066da5?logo=docker&logoColor=fff&style=for-the-badge)
 ![HEROKU](https://img.shields.io/badge/Heroku-3d06a5?logo=heroku&logoColor=fff&style=for-the-badge)
 ![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
-![INSOMNIA](https://img.shields.io/badge/PostMan-E34F26?logo=insomnia&logoColor=fff&style=for-the-badge)
+![INSOMNIA](https://img.shields.io/badge/Insomnia-3d06a5?logo=insomnia&logoColor=fff&style=for-the-badge)
 
 ## Sistema Operacionais:
 
