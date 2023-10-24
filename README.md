@@ -29,6 +29,7 @@
 ![DOCKER](https://img.shields.io/badge/Docker-066da5?logo=docker&logoColor=fff&style=for-the-badge)
 ![HEROKU](https://img.shields.io/badge/Heroku-3d06a5?logo=heroku&logoColor=fff&style=for-the-badge)
 ![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
+![INSOMNIA](https://img.shields.io/badge/PostMan-E34F26?logo=insomnia&logoColor=fff&style=for-the-badge)
 
 ## Sistema Operacionais:
 
