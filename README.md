@@ -46,7 +46,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5_2600-cc0000?style=for-the-badge&logo=amd&logoColor=white)
+![RYZEN](https://img.shields.io/badge/AMD-Ryzen_5_5500-cc0000?style=for-the-badge&logo=amd&logoColor=white)
 ![RX 6600M](https://img.shields.io/badge/AMD-RX6600M-cc0000?style=for-the-badge&logo=AMD&logoColor=white)
 <br/>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
