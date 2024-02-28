@@ -2,7 +2,7 @@
 
 º Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e formado em Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/).
 
-º Atualmente, exerço a função de Engenheiro de Software na GTS Creations, onde desempenho um papel fundamental no desenvolvimento e aprimoramento de software. Além disso, ocupo a posição de Desenvolvedor Back-End na Concpts, contribuindo para a criação de soluções robustas e eficientes. Essas posições me permitiram aprofundar meu conhecimento e experiência em engenharia de software e desenvolvimento de back-end, enquanto contribuo ativamente para o sucesso dessas empresas.
+º Atualmente, exerço a função de Engenheiro de Software na GTS Creations, onde desempenho um papel fundamental no desenvolvimento e aprimoramento de software. Além disso, ocupo a posição de Desenvolvedor Back-End na Plyr.Tech, contribuindo para a criação de soluções robustas e eficientes. Essas posições me permitiram aprofundar meu conhecimento e experiência em engenharia de software e desenvolvimento de back-end, enquanto contribuo ativamente para o sucesso dessas empresas.
 
 ## Contatos:
 
