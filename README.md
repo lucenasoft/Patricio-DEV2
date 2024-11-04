@@ -1,8 +1,10 @@
 ## <center>Hello World, I'm Patrício Gabriel <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
-📖 Cursando Engenharia de Software (2025) pela [AMPLI](https://www.ampli.com.br/) e formado em Técnico em Desenvolvimento de Sistemas (2022) pela [ETE Arcoverde](https://avaetearcoverde.com.br/).
+📖 Engenheiro de Software pela [AMPLI](https://www.ampli.com.br/) e Técnico em Desenvolvimento de Sistemas pela [ETE Arcoverde](https://avaetearcoverde.com.br/).
 
-💻 Sou Desenvolvedor Back-End com 4 anos de experiência e um ano como Analista de Redes, especializado em Java e Node.js, com experiência nos frameworks Spring Boot e Express. Também possuo conhecimento básico em React e Next.js, utilizados em projetos menores. 🚀 Experiência na implementação de testes automatizados, documentação e melhorias contínuas nos processos para garantir a qualidade dos sistemas.
+💻 Sou Desenvolvedor Full Stack e Professor de TI, especializado em desenvolvimento backend e com expertise em Sistemas Distribuídos, Web, Docker, Kubernetes, Java, Python, Node.js, PostgreSQL, Redis e AWS. Possuo experiência em mentoria de colegas, orientação em decisões técnicas e colaboração com times de produto e design para a execução eficiente de projetos.
+
+🤝 Proficiente em linguagens como Java, Typescript, Javascript, juntamente com frameworks NestJs, Express, Django, Spring Boot, React, entre outros. Bem versado em ferramentas de implantação (Docker, Kubernetes), serviços de nuvem (AWS) e ferramentas de dados (Postgres, Redis, SQL, MySQL).
 
 ## Contatos:
 
@@ -14,38 +16,44 @@
 
 ## Tecnologias:
 
+#### Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
-![NODEJS](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![ADONISJS](https://img.shields.io/badge/Adonis.Js-3d06a5?style=for-the-badge&logo=adonisjs&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/django-3a7435?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SPRINGBOOT](https://img.shields.io/badge/springboot-3a7435?style=for-the-badge&logo=springboot&logoColor=white)
-![SELENIUM](https://img.shields.io/badge/Selenium-5fb358?style=for-the-badge&logo=Selenium&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![MONGODB](https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=fff&style=for-the-badge)
+
+#### Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-3a7435?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-3a7435?style=for-the-badge&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/Adonis.Js-3d06a5?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Estrutura e Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23ED8B00?style=for-the-badge&logo=amazon&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-066da5?logo=docker&logoColor=fff&style=for-the-badge)
-![HEROKU](https://img.shields.io/badge/Heroku-3d06a5?logo=heroku&logoColor=fff&style=for-the-badge)
-![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
-![INSOMNIA](https://img.shields.io/badge/Insomnia-3d06a5?logo=insomnia&logoColor=fff&style=for-the-badge)
-![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![NESTJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![RABBITMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Postman](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-3d06a5?logo=insomnia&logoColor=fff&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-5fb358?style=for-the-badge&logo=Selenium&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white)
-![KONG](https://img.shields.io/badge/Kong-002E5D?style=for-the-badge&logo=kong&logoColor=white)
-![MICROSERVICES](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
-![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TESTING](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
-![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-002E5D?style=for-the-badge&logo=kong&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ## Sistema Operacionais:
 
